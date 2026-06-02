@@ -1,0 +1,6 @@
+{
+  "name": "Taller Literario - Curso Premium de Escritura Creativa",
+  "description": "Un curso interactivo, moderno y pedagógico de escritura creativa, basado en las lecciones de la Escuela de Escritores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
